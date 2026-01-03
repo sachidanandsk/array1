@@ -6,8 +6,8 @@ def main():
     print("=== main/master branch output ===")
     print(f"Scores = {scores}")
     print(f"Average = {average}")
-   
-  
+
+
 
 if __name__ == "__main__":
     main()
